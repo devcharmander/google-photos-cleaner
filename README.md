@@ -8,6 +8,6 @@ There are multiple catches on how google has exposed its photos API endpoints.
 
 To run this code, you would need a credentials.json file which you can get from your google developers console page
 
-**This is not tested is Windows**
+**This is not tested on Windows**
 
 
